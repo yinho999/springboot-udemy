@@ -12,7 +12,7 @@ import org.springframework.boot.runApplication
  * @SpringBootApplication(scanBasePackages = ["org.springboot.springcoredemo", "org.springboot.util"]): Tells Spring Boot to look for other components, configurations, and services in the org.springboot.springcoredemo package and also org.springboot.util package, letting it find the controllers.
  */
 @SpringBootApplication(
-	scanBasePackages = ["org.springboot.springcoredemo","org.springboot.util"]
+//	scanBasePackages = ["org.springboot.springcoredemo","org.springboot.util"]
 )
 class SpringcoredemoApplication
 
