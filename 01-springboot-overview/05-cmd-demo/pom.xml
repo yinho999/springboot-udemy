@@ -71,6 +71,7 @@
 <!--				Package using: mvnw package-->
 <!--				Run via Java: java -jar target/mycoolapp-0.0.1-SNAPSHOT.jar-->
 <!--				Run via Maven: ./mvnw spring-boot:run	-->
+<!--				Clean, Compile and test: ./mvnw clean compile test-->
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
